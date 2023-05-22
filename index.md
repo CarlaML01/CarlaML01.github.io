@@ -15,7 +15,7 @@ Main tools: R, SPSS, Excel and Tableau.
 
 ---
 [Project 3 Bio-DATA project](/pdf/project 1.pdf)
-<img src="images/logo2"/>
+<img src="images/logo2.png"/>
 
 ---
 
