@@ -9,8 +9,8 @@
 
 ---
 [Project 2 Brainnest - Data Analysis Industrial Traineeship](/pdf/project report_final_Brainnest-Carla.pdf)
-< Detailed data analysis project from Heart Disease Data Set [Source](https://archive.ics.uci.edu/ml/datasets/heart+disease)
-< Main tools: R, SPSS, Excel and Tableau
+Detailed data analysis project from Heart Disease Data Set [Source](https://archive.ics.uci.edu/ml/datasets/heart+disease). 
+Main tools: R, SPSS, Excel and Tableau.
 <img src="images/logo-project-brainnest.png"/>
 
 ---
