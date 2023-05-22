@@ -14,7 +14,7 @@ Main tools: R, SPSS, Excel and Tableau.
 <img src="images/logo-project-brainnest.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Bio-DATA project](/pdf/project 1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
