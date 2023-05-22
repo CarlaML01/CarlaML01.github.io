@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/project report_final_Brainnest-Carla.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/logo-project-brainnest.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
