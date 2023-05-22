@@ -19,13 +19,11 @@ Main tools: R, SPSS, Excel and Tableau.
 
 ---
 
-### Category Name 2
+### Published DATA
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Article 1](https://doi.org/10.3390/plants11151924)
+- [Article 2](https://doi.org/10.3389/fmicb.2022.1007935)
+
 
 ---
 
