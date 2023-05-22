@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Udacity Data Analyst NanoDegree](https://github.com/CarlaML01/projects/blob/f843ff6e919c307fe076ebffdb58a38d76df36a3/Project%20TMDb%20movie%20dataset.ipynb)
+[Project 1 Udacity Data Analyst NanoDegree](https://github.com/CarlaML01/projects/blob/main/Project%20TMDb%20movie%20dataset%20-%20final.ipynb)
 Project TMDb movie dataset.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
