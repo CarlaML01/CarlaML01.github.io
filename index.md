@@ -2,21 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Recent projects: 
 
-[Project 1 Udacity Data Analyst NanoDegree](https://github.com/CarlaML01/projects/blob/main/Project%20TMDb%20movie%20dataset%20-%20final.ipynb)
-Project TMDb movie dataset.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Project 1 Udacity Advanced Data Analyst NanoDegree](https://github.com/CarlaML01/projects/blob/main/Project%20TMDb%20movie%20dataset%20-%20final.ipynb)
+TMDb movie dataset.
+<img src="images/logo01.png"/>
 
 ---
-[Project 2 Brainnest - Data Analysis Industrial Traineeship](/pdf/project report_final_Brainnest-Carla.pdf)
-Detailed data analysis project from Heart Disease Data Set [Source](https://archive.ics.uci.edu/ml/datasets/heart+disease). 
-Main tools: R, SPSS, Excel and Tableau.
+### [Project 2 Brainnest - Data Analysis Industrial Traineeship](https://github.com/CarlaML01/CarlaML01.github.io/blob/e5e888f217c120e8498f98d326a584f5bcfa3d7a/pdf/project%20report_final_Brainnest-Carla.pdf) 
+Detailed data analysis project from Heart Disease Data Set [Source](https://archive.ics.uci.edu/ml/datasets/heart+disease).\
+Main tools: R, SPSS, Excel and Tableau. 
+
 <img src="images/logo-project-brainnest.png"/>
 
 ---
-[Project 3 Bio-DATA project](/pdf/project 1.pdf)
-<img src="images/logo2.png"/>
+### [Project 3 Bio-DATA project](https://github.com/CarlaML01/CarlaML01.github.io/blob/e5e888f217c120e8498f98d326a584f5bcfa3d7a/pdf/project%201.pdf)
+Data Research assistant work project.\
+<img src="images/logo3.png"/>
 
 ---
 
